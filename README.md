@@ -78,7 +78,6 @@ you may try other Tensorflow UNet Models:<br>
 
 <h3>1. Dataset Citation</h3>
 The dataset used here has been derived from 
-which was derived by us from 
 <a href="https://zenodo.org/records/1327317/files/training_set.zip?download=1">training_set.zip</a> in
 the website <a href="https://zenodo.org/records/1327317">
 <b>Automated measurement of fetal head circumference using 2D ultrasound images</b></a>
